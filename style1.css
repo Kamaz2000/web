@@ -1,0 +1,61 @@
+header {
+  background-color: #333;
+  padding: 20px 0;
+  text-align: center;
+  color: #FFF;
+}
+
+header h1 {
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 14px;
+}
+
+/* Стили для навигационного меню */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 16px;
+}
+
+/* Стили для основного контента */
+main {
+  margin-top: 20px;
+}
+
+article {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #F2F2F2;
+}
+
+article h2 {
+  margin-top: 0;
+}
+
+article p {
+  line-height: 1.5;
+}
+
+/* Стили для подвала сайта */
+footer {
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  background-color: #333;
+  color: #FFF;
+}
